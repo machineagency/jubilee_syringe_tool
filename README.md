@@ -1,6 +1,8 @@
 # Jubilee 10cc Syringe Tool
 A 10cc syringe extruder for gels, pastes, and other viscous media
 
+<img src="https://github.com/machineagency/jubilee_syringe_tool/blob/main/pics/syringe_tool.PNG">
+
 ## Overview
 This is a Jubilee-compatible syringe extruder head.
 It is designed to be reliable enough for lab automation and small-scale production applications.
