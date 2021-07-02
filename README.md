@@ -23,4 +23,4 @@ For more on Jubilee, have a look at the [parent project](https://github.com/mach
 This tool was created by [Joshua Vasquez](http://www.doublejumpelectric.com/) of [Machine Agency](http://depts.washington.edu/machines/) at the University of Washington.
 
 ## Use the Source!
-This tool is licensed with a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+This tool is licensed with a [Creative Commons Attribution 4.0 Unported License](https://creativecommons.org/licenses/by/4.0/).
