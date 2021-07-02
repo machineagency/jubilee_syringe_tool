@@ -8,7 +8,7 @@ This is a Jubilee-compatible syringe extruder head.
 It is designed to be reliable enough for lab automation and small-scale production applications.
 
 Building one is straightforward too!
-The syringe extruder can be reproduced from both printed and stock parts with a single unit costing under $200.
+The syringe extruder can be reproduced from both printed and stock parts with a single unit costing under $150.
 Simply order the parts in the [Shopping List](https://docs.google.com/spreadsheets/d/19zSPgaUJId5xt-jpjvXQGE22AiIK3zP_XUoAT0gs4UI/edit?usp=sharing) and follow the step-by-step instructions.
 
 For more information on provisioning this tool for Jubilee, have a look at its corresponding [tool page](https://jubilee3d.com/index.php?title=10cc_Syringe_Tool).
