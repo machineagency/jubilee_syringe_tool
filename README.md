@@ -9,14 +9,14 @@ It is designed to be reliable enough for lab automation and small-scale producti
 
 Building one is straightforward too!
 The syringe extruder can be reproduced from both printed and stock parts with a single unit costing under $150.
-Simply order the parts in the [Shopping List](https://docs.google.com/spreadsheets/d/19zSPgaUJId5xt-jpjvXQGE22AiIK3zP_XUoAT0gs4UI/edit?usp=sharing) and follow the step-by-step instructions.
+Simply order the parts in the [Shopping List](https://docs.google.com/spreadsheets/d/1Fj20bxpdoopTrS_6ojMFQcdhQe556lmoZU1JOpwKWVU/edit?usp=sharing) and follow the step-by-step instructions.
 
 For more information on provisioning this tool for Jubilee, have a look at its corresponding [tool page](https://jubilee3d.com/index.php?title=10cc_Syringe_Tool).
 
 ## Specs
 * Accepts [10cc Luer-Lock Style Syringes](https://www.amazon.com/gp/product/B08LMW7M1L) that, in turn, support a variety of syringe tips.
 * 8000 steps-per-mm at 16x microstep factor. 500 steps-per-mm if using whole steps.
-* Purchased Parts [Shopping List](https://docs.google.com/spreadsheets/d/19zSPgaUJId5xt-jpjvXQGE22AiIK3zP_XUoAT0gs4UI/edit?usp=sharing)
+* Purchased Parts [Shopping List](https://docs.google.com/spreadsheets/d/1Fj20bxpdoopTrS_6ojMFQcdhQe556lmoZU1JOpwKWVU/edit?usp=sharing)
 
 ## Community
 This tool is part of the bigger ecosystem of Jubilee-compatible tools that implement the [E3D Toolchanger Coupler](https://github.com/e3donline/ToolChanger) standard.
